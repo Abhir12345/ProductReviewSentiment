@@ -66,7 +66,10 @@ This project uses a fine-tuned DistilBERT model to classify customer reviews of 
 
 ## 📂 Project Structure
 -  E_commerge.ipynb # The notebook used for training, and text cleaning. 
-- distilbert_review_model.pth # Trained model weights
+- 🔐 Model Weights
+- *Due to GitHub file **size limits**, model weights are hosted on the Hugging Face Hub*:
+
+👉 [Abhinandan12345/distilbert-fashion-sentiment](https://huggingface.co/Abhinandan12345/distilbert-fashion-sentiment)
 -  gradio_app.py # Main Gradio UI script
 -  equirements.txt # Python dependencies
 -  README.md
